@@ -1,4 +1,5 @@
 {
+    "name": "TagBundle",
     "type": "symfony-bundle",
     "license": "proprietary",
     "require": {
